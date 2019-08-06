@@ -1,0 +1,164 @@
+
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Raleway&display=swap');
+
+/* h1 a:hover {
+  color:yellow*/
+
+}
+
+h1 {
+  /*font-family: 'Raleway', sans-serif;*/
+font-family: 'Exo 2', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 60px;
+}
+
+img{
+  margin:10px;
+  margin-top: 30px;
+}
+
+body{
+  /*background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/8OZ1PZ4/videoblocks-abstract-minimalist-moving-background-loop_r1gicexe5f_thumbnail-full01.png*/
+  background-image: url(pipes.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  margin:auto;
+
+}
+
+p {
+
+  line-height: 60px;
+  font-family: 'Exo 2', sans-serif;
+  font-weight:  bold;
+  font-size: 18px;
+
+
+}
+
+h3{
+  font-family: 'Exo 2', sans-serif;
+  line-height: 60px;
+}
+
+.active {
+  background-color: #1C1C1C;
+}
+
+.our-content{
+  max-width: 600px;
+  margin: auto;
+  padding-top: 20px;
+
+}
+
+
+button:hover{
+  color:green;
+  background-color: #05ADE8;
+
+
+}
+
+button{
+  background-color:pink;
+}
+
+input {
+  color:#578DB0;
+}
+
+#Color{
+  color:#E90003;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+#Color2{
+  color:#E90003;
+  font-size:30px;
+  font-weight: bold;
+}
+
+/*h2:hover{
+  color:orange;
+*/
+
+.In-One {
+
+  -webkit-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+  -moz-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+  box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+}
+
+.In-Two:hover {
+  -webkit-box-shadow: 12px 1px 17px 26px rgba(0,0,0,0.71);
+-moz-box-shadow: 12px 1px 17px 26px rgba(0,0,0,0.71);
+box-shadow: 12px 1px 17px 26px rgba(0,0,0,0.71);
+}
+.In-Two {
+
+ width: 400px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ text-align: center;
+ margin-right: 30px;
+ border:20px;
+}
+
+.In-Two:hover{
+  box-shadow: 0 7px 11px 0 rgba(0, 0, 0, 0.6), 0 9px 30px 0 rgba(0, 0, 0, 0.25);
+}
+.In-Three:hover{
+  box-shadow: 10px 10px 5px red;
+}
+
+
+}
+
+
+
+/*li{
+  background-image: url("red-star-bullet.png");
+
+}
+*/
+
+ul li a:hover {
+  color:red;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E20103;
+  -webkit-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+  -moz-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+
+  box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+
+}
+
+li {
+ float: left;
+}
+
+li a {
+  display: block;
+  color: #F6F200;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  /*-webkit-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+  -moz-box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);
+  box-shadow: 2px 9px 17px 2px rgba(0,0,0,0.71);*/
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #F6F200;
+}
