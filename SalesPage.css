@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Exo+2|Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
 
 /* h1 a:hover {
   color:yellow*/
@@ -8,7 +8,7 @@
 
 h1 {
   /*font-family: 'Raleway', sans-serif;*/
-font-family: 'Exo 2', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
   font-weight: bold;
   font-size: 50px;
   line-height: 60px;
