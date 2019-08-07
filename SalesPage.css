@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Exo&display=swap');
 /* h1 a:hover {
   color:yellow*/
 
@@ -7,9 +7,9 @@
 
 h1 {
   /*font-family: 'Raleway', sans-serif;*/
-  font-family: 'Libre Caslon Text', serif;
+  font-family: 'Exo', sans-serif;
 
-  font-weight: bold;
+  font-weight: normal;
   font-size: 50px;
   line-height: 60px;
 }
